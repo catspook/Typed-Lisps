@@ -1,4 +1,4 @@
-##Typed Lisps
+## Typed Lisps
 ---
 This paper summarizes the historical frustrations with Lisp's dynamic typing, and how that helped lead to the creation of the Hindley-Milner typing system. It also explores how one modern Lisp, Racket, adopted the Hindley-Milner typing system, as well as my experience using it as compared to untyped Racket.  
 
